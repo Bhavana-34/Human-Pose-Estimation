@@ -1,0 +1,48 @@
+[2025-03-27 17:21:49] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:21:54] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:21:59] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:22:03] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:22:07] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:22:12] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:22:16] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:22:20] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:22:25] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:28:17] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:28:22] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:28:26] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:28:31] Feedback: Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:28:35] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:28:39] Feedback: Adjust Left Arm, Adjust Right Arm
+[2025-03-27 17:28:44] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:28:48] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:28:53] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:28:58] Feedback: Adjust Left Arm, Adjust Right Arm
+[2025-03-27 17:29:02] Feedback: Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:29:06] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:29:11] Feedback: Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:29:15] Feedback: Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:29:20] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:29:24] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:29:28] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:29:33] Feedback: Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:29:37] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:29:42] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:29:46] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Right Leg
+[2025-03-27 17:29:50] Feedback: Adjust Left Arm, Adjust Right Arm
+[2025-03-27 17:29:55] Feedback: Adjust Left Arm, Adjust Right Arm
+[2025-03-27 17:29:59] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:03] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:08] Feedback: Adjust Left Arm, Adjust Right Arm
+[2025-03-27 17:30:12] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:16] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:21] Feedback: Adjust Left Arm, Straighten Right Leg
+[2025-03-27 17:30:25] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:30] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:34] Feedback: Adjust Left Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:38] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:43] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:48] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:52] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:30:56] Feedback: Adjust Left Arm, Adjust Right Arm, Straighten Left Leg
+[2025-03-27 17:32:04] Feedback: Adjust Right Arm, Straighten Left Leg, Straighten Right Leg
+[2025-03-27 17:33:22] Feedback: Straighten Left Leg, Straighten Right Leg

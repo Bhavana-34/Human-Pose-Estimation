@@ -1,0 +1,12 @@
+Image,Pose,Accuracy,Feedback
+download (4).jpg,Warrior Pose,96.6194692809389,"⚠ Adjust Left Arm (Ideal: 90°, Your: 177.0°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 164.7°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 170.7°)"
+download(4).jpg,Warrior Pose,97.47482686981849,"⚠ Adjust Left Arm (Ideal: 90°, Your: 175.3°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 179.3°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 166.6°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 168.9°)"
+pose1.jpg,Warrior Pose,81.71291663215314,"⚠ Adjust Left Arm (Ideal: 90°, Your: 43.5°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 60.3°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 16.3°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 26.3°)"
+pose10.jpg,Warrior Pose,85.91935536533877,"⚠ Adjust Left Arm (Ideal: 90°, Your: 176.7°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 174.9°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 92.1°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 76.4°)"
+pose2.jpg,Warrior Pose,80.56119630311389,"⚠ Adjust Left Arm (Ideal: 90°, Your: 61.8°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 63.2°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 25.8°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 19.9°)"
+pose3.jpg,Warrior Pose,68.58847974222057,"⚠ Adjust Left Arm (Ideal: 90°, Your: 158.0°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 165.0°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 17.0°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 38.5°)"
+pose4.jpg,Warrior Pose,99.977142351515,"⚠ Adjust Left Arm (Ideal: 90°, Your: 76.1°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 78.1°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 111.6°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 110.2°)"
+pose5.jpg,Warrior Pose,64.70136735784259,"⚠ Adjust Left Arm (Ideal: 90°, Your: 118.3°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 144.4°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 9.3°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 22.6°)"
+pose6.jpg,Warrior Pose,64.90331910581733,"⚠ Adjust Left Arm (Ideal: 90°, Your: 126.6°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 128.1°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 16.3°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 14.0°)"
+pose7.jpg,Warrior Pose,98.01684463904257,"⚠ Adjust Left Arm (Ideal: 90°, Your: 164.2°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 159.2°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 159.1°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 163.3°)"
+pose9.jpg,Warrior Pose,70.39455406080938,"⚠ Adjust Left Arm (Ideal: 90°, Your: 174.5°), ⚠ Adjust Right Arm (Ideal: 90°, Your: 128.8°), ⚠ Adjust Left Leg (Ideal: 135°, Your: 36.2°), ⚠ Adjust Right Leg (Ideal: 135°, Your: 26.6°)"
